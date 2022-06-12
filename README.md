@@ -1,0 +1,2 @@
+# RUSU-project
+Fruit detection
